@@ -17,10 +17,9 @@ The core radio operation.
 * [C7, C8, C9  - 0603 0.1μF](http://www.digikey.com/product-detail/en/0/490-1532-1-ND/587771) [opt + C17, C19]
 * [C14 - 0603 220nF](http://www.digikey.com/product-detail/en/0/587-1246-1-ND/0)
 * [C15, C16 - 0805 12pF](http://www.digikey.com/product-detail/en/0/1276-1120-1-ND/3889206)
-* [D1 - 0805 Schottky diode](http://www.digikey.com/product-detail/en/0/478-7802-1-ND) [opt + D5]
+* [D1, D4, D6 - 0805 Schottky diode](http://www.digikey.com/product-detail/en/0/478-7802-1-ND) [opt + D5]
 * [D2 - 0805 red LED](http://www.digikey.com/product-detail/en/0/160-1427-1-ND/386800) [opt + D8]
 * [D3 - 0805 green LED](http://www.digikey.com/product-detail/en/0/160-1423-1-ND/386792)
-* [D4, D6 - 1N4148 diode](http://www.digikey.com/product-detail/en/0/1N4148W-E3-08CT-ND)
 * [LP1 - LP5907](http://www.digikey.com/product-detail/en/0/296-40365-1-ND)
 * [R1, R8 - 0603 10kΩ](http://www.digikey.com/product-detail/en/0/RMCF0603FT10K0CT-ND) [opt + R3, R14]
 * [R2 - 0603 2.2kΩ](http://www.digikey.com/product-detail/en/0/RMCF0603FT2K20CT-ND/1943011)
@@ -55,7 +54,7 @@ The core radio operation.
 
 ** Board
 
-![Top](http://i.imgur.com/L3kWhDl.png)
+![Top](http://i.imgur.com/0YoKvxP.png)
 
 ![Bottom](http://i.imgur.com/eQBjqIf.png)
 
